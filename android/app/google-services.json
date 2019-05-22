@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970858019174",
+    "firebase_url": "https://flash-chat-b07a1.firebaseio.com",
+    "project_id": "flash-chat-b07a1",
+    "storage_bucket": "flash-chat-b07a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970858019174:android:764abb38ae007a31",
+        "android_client_info": {
+          "package_name": "com.FreeSoil.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970858019174-medjmmhb88frptpd5ssp9p6bpkqjtofa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHPfm8RPvsZ99A-W2ySuZvpv4ZIRQIiJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970858019174-medjmmhb88frptpd5ssp9p6bpkqjtofa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
